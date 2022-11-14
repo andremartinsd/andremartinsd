@@ -2,7 +2,7 @@
   
 <div align="center">
   <a href="https://andremartinsd.github.io/">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=graywhite&Border=C000BF">    <img height="150em"alt="andremartinsd's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/andremartinsd?cardType=github&theme=graywhite&Border=C000BF"/></a> 
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=graywhite&Border=C000BF">    <img height="150em"alt="andremartinsd Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/andremartinsd?cardType=github&theme=graywhite&Border=C000BF"/></a> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartinsd&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
