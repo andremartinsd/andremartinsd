@@ -13,7 +13,7 @@
   <img align="center" alt="Dedé-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dedé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dedé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Dedé-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGYPDkegFDcug/profile-displayphoto-shrink_200_200/0/1614119185232?e=1674086400&v=beta&t=8RrKnsPxmAwDBi5rgnAoT8mDvF8MHieesYcZuXaonjQ">
+
 </div>
   
 <h2>Redes Sociais</h2>
